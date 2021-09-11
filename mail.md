@@ -1,5 +1,5 @@
-# mail
-yum search mailx
+# unix mail
+
 ```
 mail
 ```
